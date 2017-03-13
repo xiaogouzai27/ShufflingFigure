@@ -1,2 +1,2 @@
 # ShufflingFigure
-轮播图
+App引导页面
